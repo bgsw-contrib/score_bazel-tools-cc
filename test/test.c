@@ -11,9 +11,10 @@
  * SPDX-License-Identifier: Apache-2.0
  ********************************************************************************/
 
-int main(void) {
-  int i = 4;
-  float f = 1.1f;
+int main(void)
+{
+    int i = 4;
+    float f = 1.1f;
 
-  return 0;
+    return 0;
 }

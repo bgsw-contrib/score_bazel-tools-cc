@@ -15,7 +15,8 @@
 
 #include <cmath>
 
-int main() {
-  float f = 1.0f;
-  return 0;
+int main()
+{
+    float f = 1.0f;
+    return 0;
 }
